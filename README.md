@@ -10,10 +10,10 @@ you have to use any modern browser and reach out to http://localhost:8080 to lan
 This program is designed to operate using the following components:
 
 Python Version:
-The program requires Python version 3.12, specifically the 64-bit variant. Ensure that this version of Python is installed on your system for proper functionality.
+The program requires Python version 3.12, which is bundled.
 
 Required Python Packages:
-The program relies on several Python packages to work correctly. You need to have these packages installed:
+The program relies on several Python packages to work correctly. You need to have these packages installed if somehow installer missed it or stopped midway:
 
 bottle==0.12.25: A lightweight web framework used by the program.
 peewee==3.17.6: An Object-Relational Mapping (ORM) library used for database interactions.
