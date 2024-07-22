@@ -20,7 +20,7 @@ peewee==3.17.6: An Object-Relational Mapping (ORM) library used for database int
 waitress==3.0.0: A WSGI server that serves the program’s web application.
 
 Bundled Components:
-The application utilizes Tkinter launcher and PyInstaller for packaging and running as a standalone executable. If you encounter issues with the program, ensure that these components are correctly installed and configured.
+The application utilizes GUI launcher and PyInstaller for packaging and running as a standalone executable. If you encounter issues with the program, ensure that these components are correctly installed and configured.
 
 Additional Libraries and Tools:
 This program also includes CSS and JS libraries for styling and functionality, as well as SQLite for database management. Special thanks to the creators of these libraries and tools, as well as the CDN suppliers.
